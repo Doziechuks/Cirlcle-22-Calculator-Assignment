@@ -1,3 +1,4 @@
+
 const fourthBox = document.querySelectorAll(".box-4");
 const display = document.querySelector(".display");
 const equalBtn = document.querySelector("#equal");

@@ -7,7 +7,7 @@ const equalBtn = document.querySelector("#equal");
 const acBtn = document.querySelector("#ac");
 const deBtn = document.querySelector("#de");
 const percentageBtn = document.querySelector("#percentage");
-// console.log({ equalBtn });
+// console.log({ acBtn, deBtn });
 
 for (let box of thirdBox) {
   box.addEventListener("click", () => {
@@ -30,7 +30,7 @@ zeroBtn.forEach((box) => {
     display.value += box.value;
   });
 });
-aclBtn.addEventListener("click", () => {
+acBtn.addEventListener("click", () => {
   if (display.value.trim() === "") {
     return;
   }

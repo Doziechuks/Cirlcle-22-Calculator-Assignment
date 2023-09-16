@@ -8,8 +8,6 @@ const equalBtn = document.querySelector("#equal");
 const acBtn = document.querySelector("#ac");
 const deBtn = document.querySelector("#de");
 const percentageBtn = document.querySelector("#percentage");
-// console.log({ acBtn, deBtn });
-console.log(secondBox);
 
 for (let box of thirdBox) {
   box.addEventListener("click", () => {

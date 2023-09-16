@@ -12,7 +12,7 @@ To create a simple calculator app using only HTML, CSS, and JavaScript.
 
 ## Calculator Functionalities
 
-This calculator is used to perform basic arithmetic operations, including:
+This calculator is used to perform basic arithmetic operations including:
 
 - Addition
 - Subtraction
@@ -148,6 +148,6 @@ npm run dev
 - [Lucas Lulyeho](https://github.com/lucaslulyeho)
 - [Onigbinde Peter](https://github.com/petroritse1)
 - [Ogbunude Chidinma Amanda](https://github.com/amyol123)
-
+- [Adam Adewoye](https://github.com/AdamAdewoye)
 
 
